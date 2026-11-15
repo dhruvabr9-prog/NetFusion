@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+*.local
+received/
+*.bin
+test_payload.txt
+main_backup.py
+*_backup.py
+NetFusion_Backend_Integrated/
